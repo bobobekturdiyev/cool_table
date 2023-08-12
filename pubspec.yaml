@@ -1,0 +1,14 @@
+name: cool_table
+description: Display Data in the cool table
+version: 1.0.0
+repository: https://github.com/bobobekturdiyev/cool_table.git
+
+environment:
+  sdk: ^3.0.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
